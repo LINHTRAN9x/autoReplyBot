@@ -35,7 +35,7 @@ client.on('messageCreate', message => {
                     iconURL: 'https://cdn.glitch.global/d5d9c31c-073f-4ad0-8e5c-0c8f3b7a0f7a/ylinhtran_logo_9.jpg?v=1729573329565',
                     name: 'YLINHTRAN-GSELLER',
                 })
-                .setTitle('Xin bạn chờ trong chốc lát, Admin sẽ hỗ trợ ngay thôi. Xin chân thành cảm ơn bạn')
+                .setTitle('Xin bạn chờ trong chốc lát, Admin sẽ hỗ trợ ngay thôi. Xin chân thành cảm ơn bạn!')
                 .setDescription(`*ylinhtran*`)
                 .setThumbnail('https://cdn.glitch.global/d5d9c31c-073f-4ad0-8e5c-0c8f3b7a0f7a/ylinhtran_logo_9.jpg?v=1729573329565');
 
@@ -50,7 +50,7 @@ client.on('messageCreate', message => {
                     iconURL: 'https://cdn.glitch.global/d5d9c31c-073f-4ad0-8e5c-0c8f3b7a0f7a/ylinhtran_logo_9.jpg?v=1729573329565',
                     name: 'YLINHTRAN-GSELLER',
                 })
-                .setTitle('Xin bạn chờ trong chốc lát, Admin sẽ hỗ trợ ngay thôi. Xin chân thành cảm ơn bạn')
+                .setTitle('Xin bạn chờ trong chốc lát, Admin sẽ hỗ trợ ngay thôi. Xin chân thành cảm ơn bạn!')
                 .setDescription('*ylinhtran*')
                 .setThumbnail('https://cdn.glitch.global/d5d9c31c-073f-4ad0-8e5c-0c8f3b7a0f7a/ylinhtran_logo_9.jpg?v=1729573329565');
 
