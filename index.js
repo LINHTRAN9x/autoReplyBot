@@ -18,9 +18,9 @@ client.once('ready', () => {
 
 const keywords = ['hello', 'help', 'game', 'alo', 'hi',
                   'xin chào', 'xin chao', 'admin', 'lỗi',
-                  'bug', 'fix', 'bị gì', 'bị', 'mua', 'xin',
-                  'hú',  'game off', 'game offline','cứu',
-                  'giá', 'nho', 'nhờ', 'muốn' , 'hỗ' , 'hỗ trợ',
+                  'bug', 'fix', 'bị gì', 'mua', 'xin',
+                   'game off', 'game offline','cứu',
+                  'giá', 'nhờ', 'muốn' , 'hỗ trợ',
                   'giúp'
                 ];
 
